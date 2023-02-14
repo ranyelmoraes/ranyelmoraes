@@ -1,6 +1,6 @@
 ### Olá!! Seja bem vindo à minha área de projetos pessoais. 👋 ✋
 
-### Pretendo utilizar cada vez mais essa ferramenta para desenvolvimento profissional.
+### Pretendo utilizar cada vez mais essa ferramenta para troca de conhecimento e desenvolvimento profissional.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -9,8 +9,6 @@
 )](https://www.instagram.com/ranyelmoraes)
 
 ![RanyelMoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=ranyelmoraes&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranyelmoraes)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo/já utilizei
 
