@@ -10,6 +10,7 @@
 
 ![RanyelMoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=ranyelmoraes&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ranyelmoraes/github-readme-stats)
 
 ## Tecnologias que utilizo/já utilizei
 
