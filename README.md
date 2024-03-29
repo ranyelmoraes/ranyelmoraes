@@ -1,4 +1,4 @@
-### Olá!! Seja bem vindo à minha área de projetos pessoais. 👋 ✋
+### Olá!! Seja bem vindo à minha área de projetos pessoais e profissionais. 👋 ✋
 
 ### Pretendo utilizar cada vez mais essa ferramenta para troca de conhecimento e desenvolvimento profissional.
 <br/>
